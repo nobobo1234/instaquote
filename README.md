@@ -1,4 +1,4 @@
-# Noah's twitter Bot
+# InstaQuote
 
 Bot that posts quotes from an outside API with a nice background
 
