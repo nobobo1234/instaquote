@@ -2,4 +2,4 @@ requests==2.21.0
 pytz==2018.9
 InstagramAPI==1.0.2
 Pillow==5.4.1
-PyYAML==4.2
+PyYAML==5.1
